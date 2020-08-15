@@ -7,8 +7,10 @@ First GitHub repository
 App enables user to push certain buttons on an iOS app to change the color of a text, change a text through user input, change the background color, and be able to restore everything back to the original app launch with a "Hello" intro.
 
 ### App Walk-though
-Required features GIF:  <img src="http://g.recordit.co/sHFBwhlZKb.gif" width=500><br>
-Bonus Features GIF:     <img src="http://g.recordit.co/wiTzvpTi6p.gif" width=500><br>
+Required features GIF:  <img src="http://g.recordit.co/sHFBwhlZKb.gif" width=300><br>
+
+
+Bonus Features GIF:     <img src="http://g.recordit.co/wiTzvpTi6p.gif" width=300><br>
 
 
 
