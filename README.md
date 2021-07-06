@@ -1,5 +1,5 @@
 # hello-world
-First GitHub repository 
+First GitHub repository - First time using Swift for App Dev
 
 ## hello-world Intro App
 
